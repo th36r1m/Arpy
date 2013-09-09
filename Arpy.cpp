@@ -234,7 +234,7 @@ void displayHeader() {
 			"          _\\///________\\///__\\///__________\\///___________\\////________";
 	cout << endl << endl;
 
-	cout << "Created By: 80S70ng30RG3" << endl << endl;
+	cout << "Created By: BostonGeorge" << endl << endl;
 
 	cout << "*****Sometimes you're flush and sometimes you're bust, and when you're up, \n"
 			"     it's never as good as it seems, and when you're down, you never think \n"
